@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]  (Need to make own project and paste link here)
+  - [Active Directory Home Lab]  (https://github.com/AmandaNwachukwu/ActiveDirectoryLab/blob/main/README.md)
   - [Vulnerability Management]  (Need to make own project to paste link here)
 
 
