@@ -4,5 +4,5 @@
 
   - [Active Directory Home Lab]  (https://github.com/AmandaNwachukwu/ActiveDirectoryLab/blob/main/README.md)
   - [Vulnerability Management]  (Need to make own project to paste link here)
-  - [Host Firewalls and Nmap] ()
+  - [Host Firewalls and Nmap] (https://github.com/AmandaNwachukwu/Host-Firewalls-and-Nmap/blob/main/README.md)
 
