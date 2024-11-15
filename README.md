@@ -3,6 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab]  (https://github.com/AmandaNwachukwu/ActiveDirectoryLab/blob/main/README.md)
-  - [Vulnerability Management]  (Need to make own project to paste link here)
+  - [Vulnerability Management]  ([Need to make own project to paste link here](https://github.com/AmandaNwachukwu/Vulnerability-Management-w-Nessus/blob/main/README.md)
   - [Host Firewalls and Nmap] (https://github.com/AmandaNwachukwu/Host-Firewalls-and-Nmap/blob/main/README.md)
 
