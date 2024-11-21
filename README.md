@@ -5,4 +5,4 @@
   - [Active Directory Home Lab] (https://github.com/AmandaNwachukwu/ActiveDirectoryLab/blob/main/README.md)
   - [Vulnerability Management] (https://github.com/AmandaNwachukwu/Vulnerability-Management-w-Nessus/blob/main/README.md)
   - [Host Firewalls and Nmap] (https://github.com/AmandaNwachukwu/Host-Firewalls-and-Nmap/blob/main/README.md)
-  - [SOC Automation Project (Home Lab)] (https://github.com/AmandaNwachukwu/SOC-Automation-Project-Home-Lab-/tree/main)
+  - [SOC Automation Project (Home Lab)] ((https://github.com/AmandaNwachukwu/SOC-Automation-Project-Home-Lab-/edit/main/README.md))
